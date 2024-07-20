@@ -11,7 +11,7 @@ I'm a third-year undergraduate student from [Dalian University of Technology](ht
 
 You can find my CV here: [Wang ZiRui's Curriculum Vitae](../assets/Curriculum_Vitae.pdf).
 
-[Email](ziruiwang0625@gmail.com) / [Github](https://github.com/QiuDi233) / [Wechat](../images/wechat.jpg) / [CSDN](https://blog.csdn.net/qd1813100174?spm=1000.2115.3001.5343)
+[Email](mailto:ziruiwang0625@gmail.com) / [Github](https://github.com/WangZi-Rui) 
 
 A data-driven personal website
 ======
