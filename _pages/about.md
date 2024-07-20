@@ -9,7 +9,7 @@ redirect_from:
 
 I'm a third-year undergraduate student from [Dalian University of Technology](https://en.dlut.edu.cn/). My research interest includes computer vision, computer graphics, and machine learning. Specifically, my current primary research focus is on the fusion of infrared and visible light, as well as 3D human mesh reconstruction.
 
-You can find my CV here: [XX's Curriculum Vitae](../assets/Curriculum_Vitae.pdf).
+You can find my CV here: [Wang ZiRui's Curriculum Vitae](../assets/Curriculum_Vitae.pdf).
 
 [Email](ziruiwang0625@gmail.com) / [Github](https://github.com/QiuDi233) / [Wechat](../images/wechat.jpg) / [CSDN](https://blog.csdn.net/qd1813100174?spm=1000.2115.3001.5343)
 
