@@ -11,5 +11,5 @@ I'm a third-year undergraduate student from [Dalian University of Technology](ht
 
 You can find my CV here: [Wang ZiRui's Curriculum Vitae](../assets/Curriculum_Vitae.pdf).
 
-If you are interested in my research interests or want to cooperate with me, my email and github link are as follows[Email](mailto:ziruiwang0625@gmail.com)\ [Github](https://github.com/WangZi-Rui) 
+If you are interested in my research interests or want to cooperate with me, my email and github link are as follows [Email](mailto:ziruiwang0625@gmail.com)\ [Github](https://github.com/WangZi-Rui) 
 
